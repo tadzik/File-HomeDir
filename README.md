@@ -1,5 +1,5 @@
 # File::HomeDir
-[![Build Status](https://travis-ci.org/azawawi/file-homedir.svg?branch=master)](https://travis-ci.org/azawawi/file-homedir)
+[![Build Status](https://travis-ci.org/azawawi/File-HomeDir.svg?branch=master)](https://travis-ci.org/azawawi/File-HomeDir)
 
 This is a Perl 6 port of https://metacpan.org/pod/File::HomeDir. File::HomeDir
 is a module for locating the directories that are "owned" by a user (typicaly
