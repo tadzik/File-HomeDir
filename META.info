@@ -6,5 +6,5 @@
         "File::HomeDir": "lib/File/HomeDir.pm"
     },
     "depends"     : [],
-    "source-url"  : "git://github.com/tadzik/File-HomeDir.git"
+    "source-url"  : "git://github.com/azawawi/File-HomeDir.git"
 }
